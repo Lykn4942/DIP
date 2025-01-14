@@ -1,2 +1,2 @@
-- Report: Add authurs' name and publication years of the artical in the reference, change some small details in each seperate part 
-- Powerpoint: Update new slides in part II
+- Report: Add authurs' name and publication years of each article in the reference, change some small details in each separate parts
+- Powerpoint: Add new slides in part II
